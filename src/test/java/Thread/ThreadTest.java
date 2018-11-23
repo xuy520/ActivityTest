@@ -27,5 +27,5 @@ public class ThreadTest {
         t1.join();
         System.out.println("结束");
         //t1.interrupt();
-
+    }
 }

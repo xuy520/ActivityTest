@@ -4,11 +4,7 @@ package pdf;
 import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.*;
 import org.apache.commons.codec.binary.Base64;
-import org.springframework.util.Base64Utils;
-
-import java.io.IOException;
 import java.util.*;
-
 import java.io.FileOutputStream;
 import java.util.List;
 
@@ -49,10 +45,6 @@ public class PdfTest {
         document.add(table);
         document.close();
         writer.close();
-
-
-
-
     }
 
     public static void setHead(Document document, String content, Font baseFont) {

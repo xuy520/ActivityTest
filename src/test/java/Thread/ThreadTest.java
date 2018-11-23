@@ -28,4 +28,4 @@ public class ThreadTest {
         System.out.println("结束");
         //t1.interrupt();
     }
-
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityTest.iml" filepath="$PROJECT_DIR$/ActivityTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-bpmn-converter/activiti-bpmn-converter.iml" filepath="$PROJECT_DIR$/Activiti/activiti-bpmn-converter/activiti-bpmn-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-bpmn-layout/activiti-bpmn-layout.iml" filepath="$PROJECT_DIR$/Activiti/activiti-bpmn-layout/activiti-bpmn-layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-bpmn-model/activiti-bpmn-model.iml" filepath="$PROJECT_DIR$/Activiti/activiti-bpmn-model/activiti-bpmn-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-engine/activiti-engine.iml" filepath="$PROJECT_DIR$/Activiti/activiti-engine/activiti-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-image-generator/activiti-image-generator.iml" filepath="$PROJECT_DIR$/Activiti/activiti-image-generator/activiti-image-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-json-converter/activiti-json-converter.iml" filepath="$PROJECT_DIR$/Activiti/activiti-json-converter/activiti-json-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-process-validation/activiti-process-validation.iml" filepath="$PROJECT_DIR$/Activiti/activiti-process-validation/activiti-process-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-root.iml" filepath="$PROJECT_DIR$/Activiti/activiti-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activiti/activiti-spring/activiti-spring.iml" filepath="$PROJECT_DIR$/Activiti/activiti-spring/activiti-spring.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+{
+  "code": "0000",
+  "dayIncome": 0.0,
+  "msg": "success",
+  "shareList": [
+    {
+      "bankAcco": "6222620110028678655",
+      "dayIncome": 0.0,
+      "marketValue": 8.15,
+      "share": 8.15,
+      "totalIncome": 0.05,
+      "tradeAcco": "02999000000016072"
+    },
+    {
+      "bankAcco": "6214661210017271",
+      "dayIncome": 0.0,
+      "marketValue": 2.24,
+      "share": 2.24,
+      "totalIncome": 0.04,
+      "tradeAcco": "02999000000016873"
+    }
+  ],
+  "totalIncome": 0.09,
+  "totalShare": 10.39,
+  "totalSum": 10.39
+}
